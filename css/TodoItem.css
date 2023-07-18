@@ -1,0 +1,17 @@
+/* src/TodoItem.css */
+.TodoItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    margin: 5px 0;
+    cursor: pointer;
+  }
+  .TodoItem span {
+    flex: 1;
+  }
+  .TodoItem button {
+    margin-left: 10px;
+  }
+  

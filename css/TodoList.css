@@ -1,0 +1,8 @@
+/* src/TodoList.css */
+.TodoList {
+    text-align: center;
+  }
+  .TodoList div {
+    margin: 5px 0;
+  }
+  
